@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B0C32FCB-24C2-0CA5-5F44-883E91DE1CC5}") = "Augmented Reality", "Assembly-CSharp.csproj", "{475110C0-C309-D1D6-EFDE-467F7450DFD2}"
+EndProject
+Project("{B0C32FCB-24C2-0CA5-5F44-883E91DE1CC5}") = "Augmented Reality", "Assembly-CSharp-Editor.csproj", "{6CD7EFD4-774E-23FD-E8FB-1B88F00F2C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475110C0-C309-D1D6-EFDE-467F7450DFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475110C0-C309-D1D6-EFDE-467F7450DFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475110C0-C309-D1D6-EFDE-467F7450DFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475110C0-C309-D1D6-EFDE-467F7450DFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD7EFD4-774E-23FD-E8FB-1B88F00F2C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD7EFD4-774E-23FD-E8FB-1B88F00F2C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD7EFD4-774E-23FD-E8FB-1B88F00F2C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD7EFD4-774E-23FD-E8FB-1B88F00F2C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
